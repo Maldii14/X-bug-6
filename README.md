@@ -43,3 +43,70 @@ Contact Developer on [WhatsApp](https://wa.me/message/USWDDH34M2TWH1).
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD11/)
+
+# Install Manually 👇
+## `Requirements`
+* [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
+* [Libwebp](https://developers.google.com/speed/webp/download)
+* Any text editor
+## `Clone Repo & Installation dependencies`
+```bash
+git clone https://github.com/Maldii14/X-bug-6
+cd X-bug-6
+
+npm start
+```
+## `For Termux/Ssh/Ubuntu`
+```bash
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget
+pkg install imagemagick -y
+git clone https://github.com/Maldii14/X-bug-6
+cd CheemsBot-MD11
+yarn install
+npm start
+```
+## `For VPS`
+```bash
+apt install nodejs 
+apt install git 
+apt apt install ffmpeg 
+apt apt install libwebp 
+apt apt install imagrmagick
+apt install bash
+git clone https://github.com/Maldii14/X-bug-6
+cd X-bug-6
+npm start
+```
+## `For 24/7 Activation (Termux)`
+```bash
+npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+```
+```
+## 🔗 HOW TO REACH ME ☎️
+[![MALDII14](https://img.shields.io/badge/SUBSCRIBE%20ME-pink?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Maldivesmak/)</br>
+[![MALDII14](https://img.shields.io/badge/OPEN%20WHATSAPP%20GROUP%20CHAT-purple?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/ED1ZzvyYNea3Hg6vZbBTX3)</br>
+[![MALDII14](https://img.shields.io/badge/FOLLOW%20MaldivesMak%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaWrCuH35fLuVP2iCc2R)</br>
+[![tg](https://img.shields.io/badge/Maldivestech-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)]( https://t.me/+t9IHrOhf0rZhNGFk)
+</br>
+## Author🖌️
+- [@MALDII14](https://github.com/Maldii14/X-bug-6)
+- [@MakaniJ](https://www.github.com/MakaniJ)<br>
+
+## Feedback & issues 😕
+If you have any feedback or issues please reach out to ME maldivesmak@gmail.com
+
+## Support 🎙️
+If you need help, Join king TELEGRAM support group [t.me/Official_Maldives](t.me/+t9IHrOhf0rZhNGFk)
+</br></br></br>
+ <p align="center"> MALDIVES MAk| 2024 </p>
