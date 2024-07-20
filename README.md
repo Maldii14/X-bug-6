@@ -43,7 +43,7 @@ Contact Developer on [WhatsApp](https://wa.me/message/USWDDH34M2TWH1).
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD11/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Maldii14/X-bug-6/)
 
 # Install Manually 👇
 ## `Requirements`
