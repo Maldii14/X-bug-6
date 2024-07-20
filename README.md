@@ -3,7 +3,7 @@
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=x+bug+v6" alt="">
 </p>
     <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-MALDIVESMAK-purple.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Uploader" src="https://img.shields.io/badge/Creator-MALDIVESMAK-purple.svg?style=for-the-badge&logo=github"></a>
 </p>   
 <p align="center">
 <a href = ""><img alt="MALDIVES MAK" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
