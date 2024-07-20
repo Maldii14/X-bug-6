@@ -43,7 +43,6 @@ Contact Developer on [WhatsApp](https://wa.me/message/USWDDH34M2TWH1).
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Maldii14/X-bug-6/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -91,7 +90,6 @@ npm start
 ## `For 24/7 Activation (Termux)`
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
-```
 ```
 ## 🔗 HOW TO REACH ME ☎️
 [![MALDII14](https://img.shields.io/badge/SUBSCRIBE%20ME-pink?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Maldivesmak/)</br>
