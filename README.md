@@ -30,3 +30,16 @@ Contact Developer on [WhatsApp](https://wa.me/message/USWDDH34M2TWH1).
  ### `VERSION : V1.0.0`
 
 #### Give One star ✴️For xbug6 and [Follow Me](https://github.com/Maldii14)
+# Setup For Deployment 👇
+
+- FORK THE REPOSITORY [Here](https://github.com/Maldii14/X-bug-6/fork)
+
+## `Generate Pair Code For Session`
+[![Xeon](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Xeon-PairCode)
+
+## ` BUILDPACKS`
+
+```
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
