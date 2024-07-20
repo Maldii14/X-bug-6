@@ -28,4 +28,4 @@ Contact Developer on [WhatsApp](https://wa.me/message/USWDDH34M2TWH1).
 </br>
  ### `VERSION : V1.0.0`
 
-#### Give One star ✴️For xbug6 and [Follow Me](https://github.com/Maldii14
+#### Give One star ✴️For xbug6 and [Follow Me](https://github.com/Maldii14)
