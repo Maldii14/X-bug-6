@@ -71,7 +71,7 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install imagemagick -y
 git clone https://github.com/Maldii14/X-bug-6
-cd CheemsBot-MD11
+cd X-bug-6
 yarn install
 npm start
 ```
